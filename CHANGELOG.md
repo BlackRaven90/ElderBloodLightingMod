@@ -31,6 +31,7 @@ New env files
 
 ### Removed
 
+## [Released]
 
 ## [2.0.0] - 2015-10-07
 ### Added
